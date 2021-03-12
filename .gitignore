@@ -9,10 +9,10 @@
 /robot_test.py
 /Studio_SettingsStudioExample.py
 
-# ignore internal temporary directory __pycache__
+# ignore __pycache__
 **/__pycache__
 
-# ignore browser installation files
+# ignore portable browser executables and Selenium web driver files
 **/resources
 
 # ignore README.txt as this file duplicates existing README.md
