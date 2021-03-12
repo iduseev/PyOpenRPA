@@ -1,0 +1,19 @@
+
+# ignore large .zip files
+*.zip
+
+# ignore separate folder for storing configuration files for connection to Remote Desktop Machine
+/Microsoft_Remote_Desktop_Config
+
+# ignore some temporary solution files and examples
+/robot_test.py
+/Studio_SettingsStudioExample.py
+
+# ignore internal temporary directory __pycache__
+**/__pycache__
+
+# ignore browser installation files
+**/resources
+
+# ignore README.txt as this file duplicates existing README.md
+*/docs/README.txt
