@@ -2,7 +2,7 @@
 This repo contains Python-based robot working on Windows which utilizes PyOpenRPA library for searching and extracting Yandex results in a separate file.
 
 ## NOTE! Selenium web driver and Google Chrome portable version were removed from this repo intentionally because the robot was published for reference purposes only.
-In order to test workability, download Project.zip and unzip it on your local machine as per instructions below. 
+In order to test workability, request Project.zip from iduseev and unzip it on your local machine as per instructions below. 
 _________________________________________________________________________________________________________________________________________________________________
 # Welcome to search_extractor.py!
 
