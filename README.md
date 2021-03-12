@@ -29,7 +29,7 @@ Popen subprocess module for opening wordpad.exe
 Image module to open, convert and save screenshots in appropriate format
 
 _________________________________________________________________________________________________________________________________________________________________
-Usage:
+# Usage:
 
 1. Unzip archive Project.zip;
 2. In \sources open settings.py and replace SEARCH_PHRASE by your intended search request;
