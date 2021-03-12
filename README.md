@@ -14,7 +14,7 @@ results.rtf is the robot output file and is stored in /builds folder
 
 _________________________________________________________________________________________________________________________________________________________________
 
-For robot implementation, following technologies and libraries were used:
+## For robot implementation, following technologies and libraries were used:
 
 Selenium for fetching search results and screenshots taking
 
@@ -29,7 +29,7 @@ Popen subprocess module for opening wordpad.exe
 Image module to open, convert and save screenshots in appropriate format
 
 _________________________________________________________________________________________________________________________________________________________________
-# Usage:
+## Usage:
 
 1. Unzip archive Project.zip;
 2. In \sources open settings.py and replace SEARCH_PHRASE by your intended search request;
@@ -39,7 +39,7 @@ ________________________________________________________________________________
 
 
 _________________________________________________________________________________________________________________________________________________________________
-Documentation used:
+## Documentation used:
 
 UIDesktop
 ---------------
