@@ -1,1 +1,1 @@
-SEARCH_PHRASE = 'Дусеев Вагиз'
+SEARCH_PHRASE = 'купить страховку'
